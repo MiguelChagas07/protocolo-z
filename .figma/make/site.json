@@ -1,0 +1,10 @@
+{
+  "description": "A web application for viewing and engaging with shared content, helping users quickly find the information and resources they need.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
